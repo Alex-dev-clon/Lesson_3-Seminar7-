@@ -1,0 +1,14 @@
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\bin\Debug\net7.0\task0.exe
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\bin\Debug\net7.0\task0.deps.json
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\bin\Debug\net7.0\task0.runtimeconfig.json
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\bin\Debug\net7.0\task0.dll
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\bin\Debug\net7.0\task0.pdb
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.AssemblyInfoInputs.cache
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.AssemblyInfo.cs
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.csproj.CoreCompileInputs.cache
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.dll
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\refint\task0.dll
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.pdb
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\task0.genruntimeconfig.cache
+D:\GeekBrains\workFolder\Lesson_3(Seminar7)\task0\obj\Debug\net7.0\ref\task0.dll
